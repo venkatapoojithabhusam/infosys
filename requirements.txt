@@ -1,0 +1,16 @@
+groq
+pinecone.client
+pypdf2
+langchain
+pandas
+numpy
+python-dotenv
+streamlit
+matplotlib
+plotly
+sentence-transformers
+requests
+python-docx
+google-api-python-client
+google-auth
+google-auth-oauthlib
