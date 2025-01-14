@@ -1,2 +1,0 @@
-GROQ_API_URL = "https://console.groq.com/playground"  # Replace with your Groq Web Server URL
-GROQ_API_KEY = "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"  # Replace with your API key
